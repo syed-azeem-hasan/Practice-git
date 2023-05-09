@@ -22,3 +22,15 @@
     color:red;
     font-size: 80px;
 }
+input{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+}
+button{
+    background-color: rgb(95, 195, 228);
+    color: seashell;
+    width: 70px;
+    height: 40px;
+    border-radius: 20px;
+}
